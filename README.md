@@ -1,5 +1,5 @@
 # Hexo + Netlify CMS Starter
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/18abda65-683d-4620-8961-88ee25eb0b69/deploy-status)](https://app.netlify.com/sites/chenggang/deploys)
 ## Intro
 This is an example site built with [Hexo](https://hexo.io/) and [Netlify CMS](https://github.com/netlify/netlify-cms), based on [Viosey's](https://github.com/viosey) [Hexo material theme](https://github.com/viosey/hexo-theme-material).
 
